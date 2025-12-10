@@ -40,8 +40,8 @@ I am a Computer Science student and full-stack developer with a strong interest 
 
 ## 📈 GitHub Overview
 
-![Ebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+![Ebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=30Nomad032000&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=30Nomad032000&layout=compact&theme=default)
 
 ---
 
