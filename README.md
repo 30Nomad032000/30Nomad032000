@@ -9,9 +9,6 @@ I am a Computer Science student and full-stack developer with strong interests i
 - **Hyper-Localized Multilingual AI Bot (based on Omnilingual ASR)**  
   Working with Omnilingual ASR — an open-source multilingual automatic speech recognition system — to build a conversational assistant that supports multiple languages, including regional and low-resource languages. The goal is to combine multilingual speech recognition, natural language understanding, and voice synthesis (Cartesia) to deliver regionally adaptive, low-latency voice interactions.
 
-- **TeachLoop**  
-  An offline-first collaboration platform for educators, designed for low-bandwidth environments and reliable synchronization.
-
 - **Research — AI-Based Intrusion Detection**  
   Exploring machine learning models to detect credential stuffing and related security threats in banking networks. Presented findings at **ICEAMT 2025**.
 
