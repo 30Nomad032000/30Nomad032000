@@ -44,6 +44,3 @@ I am a Computer Science student and full-stack developer with strong interests i
 
 ![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=30Nomad032000&show_icons=true&count_private=true&theme=default)  
 ![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=30Nomad032000&layout=compact&theme=default)
-
-[![GitHub followers](https://img.shields.io/github/followers/30Nomad032000?style=flat)](https://github.com/30Nomad032000)  
-[![Profile](https://img.shields.io/badge/profile-GitHub-blue?style=flat)](https://github.com/30Nomad032000)
