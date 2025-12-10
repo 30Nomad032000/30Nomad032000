@@ -1,54 +1,52 @@
 # 👋 Hi, I'm Ebin Joseph
 
-I am a Computer Science student and full-stack developer with a strong interest in **artificial intelligence**, **web application development**, and **security-focused machine learning**. I focus on building practical, scalable systems with real-world use cases.
+I am a Computer Science student and full-stack developer with a particular interest in artificial intelligence, speech & language systems, blockchain protocols, and security-focused machine learning. I design and implement practical, production-oriented software that addresses real-world problems.
 
 ---
 
-## 🧩 Current Work
+## Current Work
 
 - **Hyper-Localized Multilingual AI Bot**  
-  Developing a custom AI assistant using **OSR-based speech recognition**, **multilingual language processing**, and **Cartesia voice synthesis**, focused on regional adaptability and real-time conversational performance.
+  Developing a custom, regionally adaptive conversational assistant that incorporates OSR-based speech recognition, multilingual natural language processing, and Cartesia voice synthesis. The project emphasises low-latency interactions, regional dialect handling, and robust contextual understanding.
 
-- **TeachLoop**  
-  An offline-first collaboration platform designed to improve teacher coordination and academic resource sharing.
+- **Research — AI-Based Intrusion Detection**  
+  Investigating machine learning methods for detecting credential stuffing and related threats in banking networks. Findings were presented at **ICEAMT 2025**.
 
-- **Research: AI-Based Intrusion Detection**  
-  Conducted research on machine learning approaches for detecting **credential stuffing attacks in banking networks**, presented at **ICEAMT 2025**.
-
----
-
-## 🛠 Technical Skills
-
-**Languages:** Java, Python, JavaScript, TypeScript, SQL  
-**Frontend:** React, Next.js, Tailwind CSS, Progressive Web Apps  
-**Backend:** Node.js, Express, REST API design, Firebase  
-**AI / ML:** Deep learning, autoencoders, GANs, anomaly detection, speech & language systems  
-**DevOps:** Docker, Linux, Git, GitHub  
-**Databases:** MongoDB, MySQL  
+- **Blockchain & Protocol Research**  
+  Actively researching emerging blockchain infrastructure including the **Coinbase x402 protocol for machine-to-machine payments**, **Chainlink VRF for verifiable randomness**, and decentralized security and oracle-based architectures for trust-minimised systems.
 
 ---
 
-## 📌 Areas of Interest
+## Technical Skills
 
-- Artificial Intelligence and Security  
-- Speech and Language Systems  
-- Full-Stack Web Development  
-- Distributed and Offline-First Systems  
+**Languages:** Java · Python · JavaScript · TypeScript · SQL  
+**Frontend:** React · Next.js · Tailwind CSS · Progressive Web Apps  
+**Backend:** Node.js · Express · REST API design · Firebase  
+**AI / ML:** Deep learning · Autoencoders · GANs · Anomaly detection · Speech & NLP systems  
+**Blockchain & Web3:** Smart contract fundamentals · Oracle systems · Chainlink VRF · Protocol-level research  
+**DevOps & Tools:** Docker · Linux · Git · GitHub · CI/CD  
+**Databases:** MongoDB · MySQL
+
+---
+
+## Areas of Interest
+
+- Artificial Intelligence & Security  
+- Speech and Language Technology  
+- Blockchain Protocols & Decentralized Infrastructure  
+- Oracle Networks & Verifiable Randomness  
+- Offline-first & Distributed Systems  
+- Full-stack Web Development  
 - System Design
 
 ---
 
-## 📈 GitHub Overview
+## GitHub Overview
 
-<!-- Stable stats mirror (uses reliable deployment) -->
 ![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=30Nomad032000&show_icons=true&count_private=true&theme=default)
 ![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=30Nomad032000&layout=compact&theme=default)
 
-<!-- Useful, always-available badges -->
 [![GitHub followers](https://img.shields.io/github/followers/30Nomad032000?style=flat)](https://github.com/30Nomad032000)
 [![Profile](https://img.shields.io/badge/profile-GitHub-blue?style=flat)](https://github.com/30Nomad032000)
 
-
 ---
-
-
