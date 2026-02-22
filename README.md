@@ -1,46 +1,42 @@
-# 👋 Hi, I'm Ebin Joseph
+# Hi, I'm Ebin Joseph
 
-I am a Computer Science student and full-stack developer with strong interests in **artificial intelligence**, **speech & language systems**, **blockchain protocols**, and **security-focused machine learning**. I design and implement production-level, research-inspired systems to solve real-world problems.
+Full-stack engineer with 3+ years of experience building production web applications. I work across the entire stack — from pixel-perfect, responsive frontends to scalable backend APIs and CI/CD pipelines.
 
----
-
-## Current Work
-
-- **Hyper-Localized Multilingual AI Bot (based on Omnilingual ASR)**  
-  Working with Omnilingual ASR — an open-source multilingual automatic speech recognition system — to build a conversational assistant that supports multiple languages, including regional and low-resource languages. The goal is to combine multilingual speech recognition, natural language understanding, and voice synthesis (Cartesia) to deliver regionally adaptive, low-latency voice interactions.
-
-- **Research — AI-Based Intrusion Detection**  
-  Exploring machine learning models to detect credential stuffing and related security threats in banking networks. Presented findings at **ICEAMT 2025**.
-
-- **Blockchain & Protocol Research**  
-  Investigating infrastructure-level protocols including Chainlink VRF for verifiable randomness, x402 protocol for machine-to-machine payments (from Coinbase), and other decentralized architectures aimed at secure, trust-minimised systems.
+Currently building multi-tenant SaaS platforms at **Qilinlab** and finishing my Master's in Computer Application.
 
 ---
 
-## Technical Skills
+## What I Work With
 
-**Languages:** Java · Python · JavaScript · TypeScript · SQL  
-**Frontend:** React · Next.js · Tailwind CSS · Progressive Web Apps  
-**Backend:** Node.js · Express · REST APIs · Firebase  
-**AI / ML:** Deep learning · Autoencoders · GANs · Anomaly detection · Speech & NLP systems (Omnilingual ASR)  
-**Blockchain & Web3:** Protocol-level research · Oracle systems · Chainlink VRF · Smart-contract fundamentals  
-**DevOps & Tools:** Docker · Linux · Git · GitHub · CI/CD pipelines  
-**Databases:** MongoDB · MySQL  
-
----
-
-## Areas of Interest
-
-- Multilingual Speech & Language Processing  
-- Artificial Intelligence & Security  
-- Blockchain & Decentralized Infrastructure  
-- Offline-first & Distributed Systems  
-- Full-Stack Web Development  
-- System Design & Research-driven Development
+**Frontend:** React · TypeScript · Next.js · Vite · Styled Components · Tailwind CSS · Redux · Zustand · React Query
+**Backend:** Node.js · Express · Django · Flask · REST APIs · GraphQL
+**Testing:** Jest · Vitest · Cypress · React Testing Library
+**DevOps & CI/CD:** Docker · GitHub Actions · AWS · Webpack · Babel
+**Databases:** PostgreSQL · MongoDB · MySQL · SQL Server
+**Tools:** Git · Figma · Linux
 
 ---
 
-## GitHub Overview
+## Featured Projects
 
-![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=30Nomad032000&show_icons=true&count_private=true&theme=default)  
+- **[Logentic](https://github.com/30Nomad032000/logentic)** — Multilingual voice assistant supporting 21+ Indian languages. Python, FastAPI, React, LangGraph, Whisper ASR. Runs on Raspberry Pi 5 with a real-time React dashboard.
+
+- **[Pragyan '25](https://github.com/30Nomad032000/pragyan25)** — Techfest event website. React, TypeScript, Vite, Tailwind CSS, Framer Motion. [Live](https://pragyan25.vercel.app)
+
+- **[Trident Rentals](https://github.com/30Nomad032000/trident-rentals)** — Car rental platform frontend with booking and fleet management. React, TypeScript. [Live](https://trident-rentals.vercel.app)
+
+- **[Socket Chat](https://github.com/30Nomad032000/socketchat)** — Real-time collaborative chat with live typing, cursor tracking, and floating text animations. Next.js, TypeScript, Socket.IO, WebSockets.
+
+- **[Chess](https://github.com/30Nomad032000/Chess)** — Multiplayer chess game. React, TypeScript.
+
+---
+
+## Experience
+
+- **Qilinlab** — Full Stack Developer (Dec 2025 – Present)
+- **Hubspire** — Software Engineer (Dec 2022 – Aug 2024)
+- **Geojit** — Junior Software Engineer (Jul 2022 – Dec 2022)
+
+---
+
 ![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=30Nomad032000&layout=compact&theme=default)
