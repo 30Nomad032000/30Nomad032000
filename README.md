@@ -21,13 +21,9 @@ Currently building multi-tenant SaaS platforms at **Qilinlab** and finishing my 
 
 - **[Logentic](https://github.com/30Nomad032000/logentic)** — Multilingual voice assistant supporting 21+ Indian languages. Python, FastAPI, React, LangGraph, Whisper ASR. Runs on Raspberry Pi 5 with a real-time React dashboard.
 
-- **[Pragyan '25](https://github.com/30Nomad032000/pragyan25)** — Techfest event website. React, TypeScript, Vite, Tailwind CSS, Framer Motion. [Live](https://pragyan25.vercel.app)
+- **[Trident Rentals](https://github.com/30Nomad032000/trident-rentals)** — Car rental platform with booking and fleet management. React, TypeScript. [Live](https://tridentrent.com/)
 
-- **[Trident Rentals](https://github.com/30Nomad032000/trident-rentals)** — Car rental platform frontend with booking and fleet management. React, TypeScript. [Live](https://trident-rentals.vercel.app)
-
-- **[Socket Chat](https://github.com/30Nomad032000/socketchat)** — Real-time collaborative chat with live typing, cursor tracking, and floating text animations. Next.js, TypeScript, Socket.IO, WebSockets.
-
-- **[Chess](https://github.com/30Nomad032000/Chess)** — Multiplayer chess game. React, TypeScript.
+- **[Pragyan '25](https://github.com/30Nomad032000/pragyan25)** — Techfest event website. React, TypeScript, Vite, Tailwind CSS, Framer Motion.
 
 ---
 
