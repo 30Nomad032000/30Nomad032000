@@ -19,6 +19,8 @@ Currently building multi-tenant SaaS platforms at **Qilinlab** and finishing my 
 
 ## Featured Projects
 
+- **[Prakash Duo Store](https://github.com/30Nomad032000/prakash-duo-store)** — Full-stack e-commerce platform with admin dashboard, Cashfree payments, Supabase, email notifications. Next.js 14, TypeScript, Tailwind CSS. [Live](https://www.banglesbyprakashduo.store/)
+
 - **[Logentic](https://github.com/30Nomad032000/logentic)** — Multilingual voice assistant supporting 21+ Indian languages. Python, FastAPI, React, LangGraph, Whisper ASR. Runs on Raspberry Pi 5 with a real-time React dashboard.
 
 - **[Trident Rentals](https://github.com/30Nomad032000/trident-rentals)** — Car rental platform with booking and fleet management. React, TypeScript. [Live](https://tridentrent.com/)
