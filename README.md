@@ -6,14 +6,23 @@ Currently building multi-tenant SaaS platforms at **Qilinlab** and finishing my 
 
 ---
 
-**Frontend:** React · TypeScript · Next.js · Vite · Tailwind CSS · Styled Components · Redux · Zustand · React Query
-**Backend:** Node.js · Express · Django · Flask · REST APIs · GraphQL
-**Testing:** Jest · Vitest · Cypress · React Testing Library
-**DevOps:** Docker · GitHub Actions · AWS · Webpack
-**Databases:** PostgreSQL · MongoDB · MySQL · SQL Server
+### Tech Stack
+
+```
+Frontend    React · TypeScript · Next.js · Vite · Tailwind CSS · Styled Components
+State       Redux · Zustand · React Query
+Backend     Node.js · Express · Django · Flask · GraphQL · REST APIs
+Testing     Jest · Vitest · Cypress · React Testing Library
+DevOps      Docker · GitHub Actions · AWS · Webpack
+Databases   PostgreSQL · MongoDB · MySQL · SQL Server
+```
 
 ---
 
-**Qilinlab** — Full Stack Developer (Dec 2025 – Present)
-**Hubspire** — Software Engineer (Dec 2022 – Aug 2024)
-**Geojit** — Junior Software Engineer (Jul 2022 – Dec 2022)
+### Work
+
+| Company | Role | Period |
+|---------|------|--------|
+| **Qilinlab** | Full Stack Developer | Dec 2025 – Present |
+| **Hubspire** | Software Engineer | Dec 2022 – Aug 2024 |
+| **Geojit** | Junior Software Engineer | Jul 2022 – Dec 2022 |
