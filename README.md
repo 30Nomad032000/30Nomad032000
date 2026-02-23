@@ -1,20 +1,25 @@
-# Hi, I'm Ebin Joseph
+```
+$ whoami
+```
 
-Full-stack engineer with 3+ years of experience shipping production web applications. I work across the entire stack — responsive frontends, backend APIs, databases, and CI/CD pipelines.
+# Ebin John Joseph
 
-Currently building multi-tenant SaaS platforms at **Qilinlab** and finishing my Master's in Computer Application.
+Full-stack engineer. 3+ years shipping production systems — multi-tenant SaaS, scalable backends, and interfaces people actually use.
 
-🔗 **[ebin.pro](https://ebin.pro)**
+Building at **Qilinlab** · MCA @ ASIET
 
 ---
 
-### Tech Stack
+```
+~/stack
+├── frontend/    React · TypeScript · Next.js · Vite · Tailwind
+├── state/       Redux · Zustand · React Query
+├── backend/     Node.js · Express · Django · Flask · GraphQL
+├── data/        PostgreSQL · MongoDB · MySQL
+├── infra/       Docker · GitHub Actions · AWS
+└── testing/     Jest · Vitest · Cypress
+```
 
-```
-Frontend    React · TypeScript · Next.js · Vite · Tailwind CSS · Styled Components
-State       Redux · Zustand · React Query
-Backend     Node.js · Express · Django · Flask · GraphQL · REST APIs
-Testing     Jest · Vitest · Cypress · React Testing Library
-DevOps      Docker · GitHub Actions · AWS · Webpack
-Databases   PostgreSQL · MongoDB · MySQL · SQL Server
-```
+---
+
+**[ebin.pro](https://ebin.pro)** · **[linkedin](https://www.linkedin.com/in/ebin-j/)**
