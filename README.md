@@ -4,6 +4,8 @@ Full-stack engineer with 3+ years of experience shipping production web applicat
 
 Currently building multi-tenant SaaS platforms at **Qilinlab** and finishing my Master's in Computer Application.
 
+🔗 **[ebin.pro](https://ebin.pro)**
+
 ---
 
 ### Tech Stack
@@ -16,13 +18,3 @@ Testing     Jest · Vitest · Cypress · React Testing Library
 DevOps      Docker · GitHub Actions · AWS · Webpack
 Databases   PostgreSQL · MongoDB · MySQL · SQL Server
 ```
-
----
-
-### Work
-
-| Company | Role | Period |
-|---------|------|--------|
-| **Qilinlab** | Full Stack Developer | Dec 2025 – Present |
-| **Hubspire** | Software Engineer | Dec 2022 – Aug 2024 |
-| **Geojit** | Junior Software Engineer | Jul 2022 – Dec 2022 |
