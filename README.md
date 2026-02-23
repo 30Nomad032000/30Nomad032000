@@ -15,8 +15,9 @@ Building at **Qilinlab** · MCA @ ASIET
 ├── frontend/    React · TypeScript · Next.js · Vite · Tailwind
 ├── state/       Redux · Zustand · React Query
 ├── backend/     Node.js · Express · Django · Flask · GraphQL
+├── ai-ml/       Python · PyTorch · LangChain · Whisper · RAG
 ├── data/        PostgreSQL · MongoDB · MySQL
-├── infra/       Docker · GitHub Actions · AWS
+├── infra/       Docker · GitHub Actions · AWS · Kubernetes
 └── testing/     Jest · Vitest · Cypress
 ```
 
