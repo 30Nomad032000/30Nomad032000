@@ -6,7 +6,7 @@ $ whoami
 
 Full-stack engineer. 3+ years shipping production systems — multi-tenant SaaS, scalable backends, and interfaces people actually use.
 
-Building at **Qilinlab** · MCA @ ASIET
+Building at **Lektik** ·
 
 ---
 
